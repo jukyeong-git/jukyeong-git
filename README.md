@@ -28,4 +28,4 @@ Platforms       Workato · SAP · Salesforce · Jira · Confluence · Slack
 ## Contact
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/jukyeong-kim)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=outlook&logoColor=white)](mailto:jukyeong.kim@hotmail.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:jukyeong.kim@hotmail.com)
