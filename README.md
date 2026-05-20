@@ -1,4 +1,4 @@
-# Jukyeong Kim
+# Jukyeong Kim (김주경)
 
 **Senior Software Engineer** | Java · Spring Boot · AWS | Based in Singapore 🇸🇬
 
